@@ -118,10 +118,3 @@ A **cross-platform parking solution** that solves a real urban problem — findi
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacoshevire@gmail.com)
 
 ## </div>
-
-<div align="center">
-*"The best code is code that anticipates failure and refuses to be broken."*
- 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=flat-square&label=Profile+Views)
- 
-</div>
