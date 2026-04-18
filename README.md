@@ -112,13 +112,13 @@ A **cross-platform parking solution** that solves a real urban problem — findi
 ## 📬 Let's Connect
  
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ejiro-oshevire-b074ba250/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jacobshevy.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacoshevire@gmail.com)
- 
-</div>
----
- 
+
+## </div>
+
 <div align="center">
 *"The best code is code that anticipates failure and refuses to be broken."*
  
