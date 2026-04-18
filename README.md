@@ -89,28 +89,17 @@ A **cross-platform parking solution** that solves a real urban problem — findi
 
 ## </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)
- 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
- 
-</div>
----
- 
 ## 🌱 Currently
- 
+
 - 📚 Deep-diving into **distributed systems** and **cloud security**
 - 🔬 Researching for my **MSc dissertation**
 - 🏗️ Expanding **PayPiggy** and **QuickPark** feature sets
 - 🤝 Open to **collaborations** on impactful, security-conscious projects
+
 ---
- 
+
 ## 📬 Let's Connect
- 
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ejiro-oshevire-b074ba250/)
